@@ -73,5 +73,4 @@ The Lasso regression was chosen as the final model to predict home prices in Ame
 - Test the Lasso Model on recent data for 2010-2018. 
 - Refine the model accordingly, and assess whether it works on future data. 
 - Roll out the model on the website to test for 30 days.
- # Predicting_Home_Prices
-# Predicting_Home_Prices
+
